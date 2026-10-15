@@ -1,0 +1,19 @@
+{
+  "name": "carbonfootprint",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "huawei",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "description": "碳足迹·全民绿色生活碳积分与减排指南",
+  "repository": {},
+  "license": "ISC",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21"
+  },
+  "dependencies": {
+    "@ohos/hvigor": "6.26.8",
+    "@ohos/hvigor-ohos-plugin": "6.26.8"
+  }
+}

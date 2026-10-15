@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "碳足迹应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "碳足迹·全民绿色生活"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "碳足迹"
+    }
+  ]
+}

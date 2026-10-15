@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RecordAddPage",
+    "pages/HistoryPage",
+    "pages/ArticleDetailPage",
+    "pages/BadgesPage",
+    "pages/CertificatePage",
+    "pages/PointsRecordsPage",
+    "pages/BackupPage",
+    "pages/FactorLibraryPage",
+    "pages/FamilyPage",
+    "pages/AiRecognizePage",
+    "pages/CarbonInclusivePage",
+    "pages/SmartPage"
+  ]
+}

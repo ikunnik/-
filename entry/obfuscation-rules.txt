@@ -1,0 +1,6 @@
+# Define project specific obfuscation rules here.
+# Keep options:
+# -keep-property-name
+# -keep-global-name
+
+-disable-obfuscation
